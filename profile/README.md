@@ -3,39 +3,38 @@
 </p>
 
 <div align="center">
-
-Bienvenue chez BenRover - une équipe d'ingénieurs et d'étudiants passionnés du Bénin, dédiée à la conception et à la construction d'un rover pour des missions martiennes dans le cadre de l'<a href="https://cars4mars.co.za/">Africa Rover Challenge - Cars4Mars</a>.
+BenRover - a team of passionate engineers and students from Benin, dedicated to designing and building a rover for mars missions as part of the <a href="https://cars4mars.co.za/">Africa Rover Challenge - Cars4Mars</a>.
 
 </div>
 
-## Notre mission 🚀
+## Our mission 🚀
 
-Chez BenRover, notre mission est claire :
+At BenRover, our mission is clear:
 
-### Innover et Explorer 🌌
+### Innovate and Explore 🌌
 
-- **Concevoir l'Avenir** : Nous visons à repousser les limites de l'ingénierie en développant un rover martien capable de naviguer dans des terrains difficiles et de mener des expériences scientifiques de manière autonome.
+- **Designing the Future**: We aim to push the boundaries of engineering by developing a Mars rover capable of navigating challenging terrain and conducting scientific experiments autonomously.
 
-- **Inspirer la Prochaine Génération** : Nous nous engageons à inspirer les jeunes ingénieurs et scientifiques à travers le Bénin et l'Afrique, en leur montrant l'excitation et les possibilités de l'exploration spatiale.
+- **Inspire the Next Generation**: We are committed to inspiring young engineers and scientists across Benin and Africa, by showing them the excitement and possibilities of space exploration.
 
-### Bâtir un Héritage Technologique 🛠️
+### Building a Technological Legacy 🛠️
 
-- **Développement des Talents Locaux** : À travers notre projet, nous cherchons à renforcer les compétences en ingénierie parmi les jeunes Béninois, en favorisant une nouvelle génération d'innovateurs dans le domaine de la technologie spatiale.
+- **Local Talent Development**: Through our project, we aim to strengthen engineering skills among young Beninese, fostering a new generation of innovators in space technology.
 
-- **Collaboration et Excellence** : Nous nous efforçons de créer un environnement collaboratif qui encourage le partage des connaissances et l'expertise en robotique et en exploration spatiale.
+- **Collaboration and Excellence**: We strive to create a collaborative environment that encourages the sharing of knowledge and expertise in robotics and space exploration.
 
-### Promouvoir les STEM au Bénin
+### Promoting STEM in Benin
 
-- **Sensibilisation Éducative** : Nous collaborons avec les écoles et les communautés locales pour promouvoir l'éducation STEM, dans le but d'habiliter les futurs leaders en science et technologie.
+- **Educational Outreach**: We work with schools and local communities to promote STEM education, with the aim of empowering future leaders in science and technology.
 
-- **Avancer les Frontières Technologiques** : En participant à l'Africa Rover Challenge, nous contribuons à l'avancement des capacités technologiques et de la recherche dans notre région.
+- **Advancing Technological Frontiers**: By participating in the Africa Rover Challenge, we contribute to the advancement of technological capabilities and research in our region.
 
-## Impliquez-vous 🤝
+## Get involved 🤝
 
-Que vous soyez ingénieur, passionné d'espace ou simplement curieux de notre mission, voici plusieurs façons de nous soutenir :
+Whether you're an engineer, space enthusiast or simply curious about our mission, here are several ways to support us:
 
-- **Suivez-nous** sur [GitHub](https://github.com/BenRover-24) pour les mises à jour sur le développement de notre rover et les progrès de la mission.
-- **Rejoignez nos Ateliers** : Participez à nos workshops et sessions de formation pour en savoir plus sur la robotique et l'exploration spatiale.
-- **Contribuez** : Si vous avez des compétences en ingénierie, en robotique ou en développement logiciel, envisagez de rejoindre notre équipe et de contribuer au succès de notre projet.
+- **Follow us** on [GitHub](https://github.com/BenRover-24) for updates on our rover development and mission progress.
+- **Join our Workshops**: Attend our workshops and training sessions to learn more about robotics and space exploration.
+- **Contribute**: If you have skills in engineering, robotics or software development, consider joining our team and contributing to the success of our project.
 
-Ensemble, nous pouvons démontrer le potentiel de l'innovation africaine dans l'exploration spatiale et l'ingénierie.
+Together, we can demonstrate the potential of African innovation in space exploration and engineering.
